@@ -24,5 +24,7 @@ function prependKitten(name) {
   return ["Arnold", ...kittens]
 }
 
-function remove
+function removeLastKitten() {
+  
+}
 // Add your functions and code here
