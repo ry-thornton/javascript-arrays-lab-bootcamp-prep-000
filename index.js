@@ -24,4 +24,5 @@ function prependKitten(name) {
   return ["Arnold", ...kittens]
 }
 
+function remove
 // Add your functions and code here
