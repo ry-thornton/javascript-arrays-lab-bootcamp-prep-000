@@ -6,4 +6,8 @@ function destructivelyAppendKitten(name) {
 
 function destructivelyPrependKitten(name) {
   kittens.unshift("Bob")
+}
+
+function destructivelyRemoveLastKitten() {
+  kittens.shift()
 }// Add your functions and code here
